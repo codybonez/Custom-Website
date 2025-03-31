@@ -1,10 +1,47 @@
+/*MAIN IDEA: MAKE A STORE WEBSITE SHOWCASE*/
+
+
+
+
+ /*the padding is for space to make it bigger. For now it will
+  stay but sometime soon it will be gone, we'll see*/
 .TopNav {
     display: flex;
     justify-content:space-evenly;
-
     
-  background: rgb(132, 151, 145);
-  
+    
+  border: solid rgb(125, 56, 182);
+  border-width: 2.5mm;
+
 
 }
+.ShowCase {
+  display: flex;
+  justify-content: center;
+  border: solid rgb(182, 163, 56);
+  border-width: 2.5mm;
+ 
+  padding: 350px;
+}
+.Items{
+  display: flex;
+  justify-content: space-around;
+  
+}
 
+.left_item{
+  display: flex;
+  border: solid rgba(165, 32, 32, 0.74);
+  padding: 100px;
+  border-width: 2.5mm;
+ 
+}
+
+.right_item{
+  display: flex;
+  border: solid rgba(36, 165, 32, 0.74);
+  padding: 100px;
+   border-width: 2.5mm;
+   justify-content: center;
+ 
+}

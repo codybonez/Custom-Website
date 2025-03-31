@@ -1,4 +1,20 @@
-// Past Todos
+Features I want in the website.
+
+1. A well polished homepage, store, and about page.
+
+2. Showcase has moving images to make the website more fun looking
+
+3. Customizable nav bar.
+
+4. Customizable themes, such as dark, light, and more.
+
+5. Items displayed in the store should display the items and 
+    make it so that you can buy it somehow. 
+
+
+
+(If possible make a search engine to find stuff. Probably won't
+be working on this till bachelors)
 
 
 

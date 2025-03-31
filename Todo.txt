@@ -1,12 +1,7 @@
-List of things to do for the week
-3-20-25 through 3-27-25
+TODO of the day:
+
+outline the parts for the website such as the nav, showcase,
+and contents.
+3-30-25 through 3-31-25.
 
 
-
-
-
-1. Create the base of the website 
-(include a rectangular box that goes in the middle to put contents in)
-
-2. spend 30 minutes looking at the js vid 
-(use the js in some way for the website)
