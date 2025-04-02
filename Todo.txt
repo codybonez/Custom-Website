@@ -1,7 +1,9 @@
 TODO of the day:
 
-outline the parts for the website such as the nav, showcase,
-and contents.
-3-30-25 through 3-31-25.
+4-2-25:
 
 
+
+1. Add a bottom div that shows resources, help, and company.
+
+2.https://www.youtube.com/watch?v=UFc-RPbq8kg&t=32s Watch this
