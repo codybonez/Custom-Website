@@ -1,9 +1,12 @@
 TODO of the day:
 
-4-2-25:
+4-10-25
 
 
 
-1. Add a bottom div that shows resources, help, and company.
+
+1. Add js file
+
+2. alert the user that the site is work in progress
 
 2.https://www.youtube.com/watch?v=UFc-RPbq8kg&t=32s Watch this
